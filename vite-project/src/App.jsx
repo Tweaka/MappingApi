@@ -40,14 +40,3 @@ function Users() {
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
-
-{
-}
-
-{
-  /* <h1>{data.data[0].id}</h1>
-<div>{data.data[0].last_name}</div>
-<p>{data.data[0].first_name}</p>
-<p>{data.email}</p>
-<p>{data.avatar}</p> */
-}
